@@ -24,6 +24,11 @@ Ez egy open repo, ahová az utóbbi 10-20 évben kiadott informatika (illetve im
 Ezt a gyűjteményt saját kedvtelésből és non-profit jelleggel szerkesztem, így nem lesz mindig naprakész és hibátlan. Kiemelném, hogy nincs kapcsolatom az oktatási hivatallal, az elkészült megoldásokat magam ellenőriztem és teszteltem.
 
 Nem vagyok profi fejlesztő, így ha észrevételed van a kóddal kapcsolatban, vagy hibát találtál benne, amit érdemes lenne kijavítani, észrevételedet nagyon szívesen fogadom. Bátran dobj egy üzenetet: [email](andras.webdev@gmail.com)
+
+<hr> 
+
+Megjegyzés: Az évek során rendszeresen változott a követelmény a képernyőre írás külalak tekintetében.
+így a print-elt válaszok nem feltétlenül az adott évi érettségi stíluskövetelményét tükrözik, igyekeztem inkább mindenhol törekedni sorok kihagyására és értelmes tördelésre. Kérlek ezt vedd figyelembe, amikor összeveted a megoldásainkat.
 </p>
 
 </div>
