@@ -1,4 +1,4 @@
-# Informatika és Digitális Kultúra Érettségi feladatmegoldásaim
+# Informatika és Digitális Kultúra Érettségi feladatok megoldásai
 
 # ![header](https://github.com/Vndrvs/info-digikult-erettsegik/blob/main/png/banner_pic.png)
 
