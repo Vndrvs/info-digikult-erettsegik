@@ -11,6 +11,7 @@ githubUsername: 'Vndrvs'
 Szia 👋,
 
 Ez egy open repo, ahová az utóbbi 10-20 évben kiadott informatika (illetve immáron digitális kultúra) érettségik közül néhány, általam írt megoldásait fogom feltölteni, kizárólag szórakoztatás, ismeretterjesztés céljából.
+A mappákat 'informatika' és 'digitalis kultura' néven rendezem, ezeken belül majd évre bontva találod a feladatokat.
 </p>
 
 <div class="icon-wrapper">
