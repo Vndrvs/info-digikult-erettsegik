@@ -1,9 +1,4 @@
----
-title: ErettsegiMegoldasok
-date: '2024-05-09'
-stack: ["Python", "MySQL"]
-githubUsername: 'Vndrvs'
----
+# Informatika és Digitális Kultúra Érettségi feladatmegoldásaim
 
 # ![header](https://github.com/Vndrvs/info-digikult-erettsegik/blob/main/png/banner_pic.png)
 
