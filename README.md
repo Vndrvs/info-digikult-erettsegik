@@ -19,7 +19,7 @@ A mappákat 'informatika' és 'digitalis kultura' néven rendezem, ezeken belül
 <p>
 Ezt a gyűjteményt saját kedvtelésből és non-profit jelleggel szerkesztem, így nem lesz mindig naprakész és hibátlan. Kiemelném, hogy nincs kapcsolatom az oktatási hivatallal, az elkészült megoldásokat magam ellenőriztem és teszteltem.
 
-Nem vagyok profi fejlesztő, így ha észrevételed van a kóddal kapcsolatban, vagy hibát találtál benne, amit érdemes lenne kijavítani, észrevételedet nagyon szívesen fogadom. Bátran dobj egy üzenetet: [email](andras.webdev@gmail.com)
+Nem vagyok profi fejlesztő, így ha észrevételed van a kóddal kapcsolatban, vagy hibát találtál benne, amit érdemes lenne kijavítani, észrevételedet nagyon szívesen fogadom. Bátran dobj egy üzenetet: (andras.webdev@gmail.com)
 
 <hr> 
 
