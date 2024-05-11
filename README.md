@@ -1,9 +1,4 @@
----
-title: ErettsegiMegoldasok
-date: '2024-05-09'
-stack: ["Python", "MySQL"]
-githubUsername: 'Vndrvs'
----
+# Informatika és Digitális Kultúra Érettségi feladatok megoldásai
 
 # ![header](https://github.com/Vndrvs/info-digikult-erettsegik/blob/main/png/banner_pic.png)
 
@@ -11,6 +6,7 @@ githubUsername: 'Vndrvs'
 Szia 👋,
 
 Ez egy open repo, ahová az utóbbi 10-20 évben kiadott informatika (illetve immáron digitális kultúra) érettségik közül néhány, általam írt megoldásait fogom feltölteni, kizárólag szórakoztatás, ismeretterjesztés céljából.
+A mappákat 'informatika' és 'digitalis kultura' néven rendezem, ezeken belül majd évre bontva találod a feladatokat.
 </p>
 
 <div class="icon-wrapper">
